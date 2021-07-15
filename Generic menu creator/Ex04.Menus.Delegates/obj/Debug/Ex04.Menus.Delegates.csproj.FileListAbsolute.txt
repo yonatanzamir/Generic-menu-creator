@@ -1,0 +1,7 @@
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\win 10\Downloads\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\B21 Ex04 YonatanZamir 208422543 ShaiAlaluf 208675769\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
